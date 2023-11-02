@@ -1,19 +1,19 @@
 Grain size in materials science and metallurgy refers to the size of the individual crystalline grains within a material microstructure. It plays a crucial role in determining the materials' mechanical, physical, and even chemical properties. Grain size and accurate measurements are fundamental aspects of materials science and engineering. The ability to control grain size allows for the customization of material properties to meet specific application requirements, thereby making it a critical factor in the design and manufacture of materials and components. Grain size measures are an essential characteristic of microstructures, and they influence different properties of materials, starting from the mechanical properties (strength, toughness, hardness, ductility, etc.). Some key points related to grain size and its measurements:<br>
-1.	<b>Mechanical properties</b><br> 
+<b>1.	Mechanical properties</b><br> 
 Grain size significantly influences a material mechanical properties. Smaller grain sizes often increase hardness and strength, while larger grain sizes show improved ductility and toughness. Engineers and materials scientists use grain size control to tailor the application-specific material properties.<br> 
-2.	<b>Heat treatment</b><br> 
+<b>2.	Heat treatment</b><br> 
 Grain size control is an essential aspect of the heat treatment process in metallurgy. Heat treatment processes like annealing and quenching can modify grain sizes and, consequently, the material’s mechanical properties.<br>
-3.	<b>Corrosion resistance</b><br>
+<b>3.	Corrosion resistance</b><br>
 It is well known that fine-grain materials always show enhanced corrosion resistance compared to coarse-grain materials. So, in areas where corrosion resistance becomes a key parameter, grain sizes should be considered.
-4.<b>	Fatigue resistance</b><br>
+<b>4.	Fatigue resistance</b><br>
 It is well known that smaller grains always lead to enhanced resistance against fatigue failure, and so in areas where cyclic loading becomes a key parameter, such as aircraft components, grain size should be carefully taken into consideration for the material applied for that specific application.<br>
-5.	<b>Weldability</b><br> 
+<b>5.	Weldability</b><br> 
 In welding applications, base material grain size becomes a critical consideration for affecting the strength and quality of welds, so grain size control plays an important role here. <br>
-6.	<b>Microstructure analysis</b><br> 
+<b>6.	Microstructure analysis</b><br> 
 Grain size measurements play a crucial role in characterizing the microstructure of a material. Advanced characterization techniques using microscopy, including optical, scanning electron microscopy, transmission electron microscopy, and x-ray diffraction, are effectively utilized in determining the grain sizes with accuracy and precise control.<br> 
-7.	<b>Quality control</b><br> 
+<b>7.	Quality control</b><br> 
 Consistency of product and quality are always confirmed by any company or industry using grain size measurements. It helps to ensure that the material meets specific performance and standard criteria.<br>
-8.	<b>Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br>
+<b>8.	Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br>
 
 Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grin sizes, which are listed below:<br>
 1.	Line Intercept Method<br>
@@ -31,7 +31,7 @@ Capturing a good quality microstructure of the polished cross-section using the 
 Now, choose regions within the micrographs randomly and carefully try to choose the areas representative of the entire microstructure.<br><br>
 <b>4. Drawing lines</b><br> 
 Draw lines of known length (mm) on the micrographs in a random orientation to the material's crystallographic structure. <br><br>
-<b>5. Counting intercepts</b><br><br>
+<b>5. Counting intercepts</b><br>
 For each line drawn, count the number of times it intersects the boundaries between individual grains. These intercepts indicate the total number of grains intersected by the lines.<br><br>
 <b>6. Calculating the mean intercept length (L)</b><br><br>
 Calculate L by dividing the total length of lines drawn by the total number of intercepts counted. The formula for the same is given below:<br>
@@ -55,7 +55,7 @@ Repeat the above steps to ensure statistical accuracy. Calculate the average gra
 2. The accuracy of the obtained results depends on the choice of the fields and the randomness of the line orientations.<br>
 3. This method is more accurate for materials with more grains, and alternate methods are helpful for finer-grained materials.<br>
 
-<b>b. ASTM grain size calculation method</b><br> The American Society for Testing and Materials (ASTM) calculation method is a standard approach for determining the grain sizes for metallic materials. This method is one of the most commonly used in materials science and metallurgy to quantify the sizes of individual grains in a polycrystalline material. ASTM has its guidelines to be followed for the calculation of grain sizes with accurate results, and the same is shown below:<br><br>
+<b>(b). ASTM grain size calculation method</b><br> The American Society for Testing and Materials (ASTM) calculation method is a standard approach for determining the grain sizes for metallic materials. This method is one of the most commonly used in materials science and metallurgy to quantify the sizes of individual grains in a polycrystalline material. ASTM has its guidelines to be followed for the calculation of grain sizes with accurate results, and the same is shown below:<br><br>
 <b>1. Sample preparation</b><br> 
 Start using the sample preparation route and create a polished sample cross-section. <br><br>
 <b>2. Micrograph acquisition</b><br>
@@ -80,7 +80,7 @@ n=2^(N-1)<br>
 2. Extreme care should be taken during the sample preparation and etching; otherwise, grain boundaries cannot be properly revealed, which ultimately alters the grain size calculations.<br>
 3. For extremely large and extremely fine grains, this method is not suitable for calculation.<br><br>
 
-<b>c. Jeffries method</b><br> 
+<b>(c). Jeffries method</b><br> 
 This method is known as the planimetrictric method for calculating quantitative grain size. It helps to calculate the average grain size of the metallographic specimen. It is an alternative to other grain size calculation methods primarily used with finer-grained materials. It uses a circular area for calculating the grain sizes. Some key points related to Jeffries grain size calculation methods are given below:<br><br>
 <b>1. Principle</b><br> 
 The base of this method relies heavily on planimetry, which involves measuring the areas of grains within a micrograph to estimate the grain sizes. <br><br>
