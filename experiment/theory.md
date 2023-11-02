@@ -14,6 +14,7 @@ Grain size measurements play a crucial role in characterizing the microstructure
 7.	<b>Quality control</b><br> 
 Consistency of product and quality are always confirmed by any company or industry using grain size measurements. It helps to ensure that the material meets specific performance and standard criteria.<br>
 8.	<b>Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br>
+
 Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grin sizes, which are listed below:<br>
 1.	Line Intercept Method<br>
 2.	Jeffries method<br>
@@ -78,6 +79,7 @@ n=2^(N-1)<br>
 1. Closed pack and complex-shaped grains require some critical evaluation<br>
 2. Extreme care should be taken during the sample preparation and etching; otherwise, grain boundaries cannot be properly revealed, which ultimately alters the grain size calculations.<br>
 3. For extremely large and extremely fine grains, this method is not suitable for calculation.<br><br>
+
 <b>c. Jeffries method</b><br> 
 This method is known as the planimetrictric method for calculating quantitative grain size. It helps to calculate the average grain size of the metallographic specimen. It is an alternative to other grain size calculation methods primarily used with finer-grained materials. It uses a circular area for calculating the grain sizes. Some key points related to Jeffries grain size calculation methods are given below:<br><br>
 <b>1. Principle</b><br> 
