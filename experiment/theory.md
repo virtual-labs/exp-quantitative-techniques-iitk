@@ -1,5 +1,5 @@
 Grain size in materials science and metallurgy refers to the size of the individual crystalline grains within a material microstructure. It plays a crucial role in determining the materials' mechanical, physical, and even chemical properties. Grain size and accurate measurements are fundamental aspects of materials science and engineering. The ability to control grain size allows for the customization of material properties to meet specific application requirements, thereby making it a critical factor in the design and manufacture of materials and components. Grain size measures are an essential characteristic of microstructures, and they influence different properties of materials, starting from the mechanical properties (strength, toughness, hardness, ductility, etc.). Some key points related to grain size and its measurements:<br>
-1.	<b>Mechanical properties<b><br> 
+1.	<b>Mechanical properties</b><br> 
 Grain size significantly influences a material mechanical properties. Smaller grain sizes often increase hardness and strength, while larger grain sizes show improved ductility and toughness. Engineers and materials scientists use grain size control to tailor the application-specific material properties.<br> 
 2.	<b>Heat treatment</b><br> 
 Grain size control is an essential aspect of the heat treatment process in metallurgy. Heat treatment processes like annealing and quenching can modify grain sizes and, consequently, the material’s mechanical properties.<br>
@@ -15,6 +15,7 @@ Grain size measurements play a crucial role in characterizing the microstructure
 Consistency of product and quality are always confirmed by any company or industry using grain size measurements. It helps to ensure that the material meets specific performance and standard criteria.<br>
 8.	<b>Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br>
 Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grin sizes, which are listed below:<br>
+
 1.	Line Intercept Method<br>
 2.	Jeffries method<br>
 3.	Standard ASTM grain size calculations<br>
@@ -86,6 +87,7 @@ Number of grains: Total grain counts within the same field.<br>
 π/4 is a constant.<br>
 <b>7. Repeat and Average</b><br> 
 Repeat the above steps to ensure statistical accuracy. Calculate the average grain size from the results obtained in different fields.<br> 
+
 <b>Advantage:</b><br>
 1. Useful for finer-grained materials<br>
 2. Uses multiple statistical fields to provide meaningful results.<br>
