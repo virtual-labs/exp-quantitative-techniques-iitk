@@ -14,11 +14,11 @@ Grain size measurements play a crucial role in characterizing the microstructure
 7.	<b>Quality control</b><br> 
 Consistency of product and quality are always confirmed by any company or industry using grain size measurements. It helps to ensure that the material meets specific performance and standard criteria.<br>
 8.	<b>Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br>
-Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grin sizes, which are listed below:<br><br>
-
+Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grin sizes, which are listed below:<br>
 1.	Line Intercept Method<br>
 2.	Jeffries method<br>
-3.	Standard ASTM grain size calculations<br><br>
+3.	Standard ASTM grain size calculations<br>
+
 We will now discuss all these methods one by one:<br>
 <b>(a)	Line Intercept Method</b><br>
 It is also known as Heyn’s method and is a simple technique used widely in materials science and engineering to estimate the average grain size of polycrystalline materials. It defines a practical way to calculate the grain size from the microstructures of the material cross-section. The brief procedure for calculating the grain size using Heyn’s intercept method is given below:<br><br>
@@ -54,11 +54,11 @@ Repeat the above steps to ensure statistical accuracy. Calculate the average gra
 2. The accuracy of the obtained results depends on the choice of the fields and the randomness of the line orientations.<br>
 3. This method is more accurate for materials with more grains, and alternate methods are helpful for finer-grained materials.<br>
 
-<b>b. ASTM grain size calculation method</b><br> The American Society for Testing and Materials (ASTM) calculation method is a standard approach for determining the grain sizes for metallic materials. This method is one of the most commonly used in materials science and metallurgy to quantify the sizes of individual grains in a polycrystalline material. ASTM has its guidelines to be followed for the calculation of grain sizes with accurate results, and the same is shown below:<br>
+<b>b. ASTM grain size calculation method</b><br> The American Society for Testing and Materials (ASTM) calculation method is a standard approach for determining the grain sizes for metallic materials. This method is one of the most commonly used in materials science and metallurgy to quantify the sizes of individual grains in a polycrystalline material. ASTM has its guidelines to be followed for the calculation of grain sizes with accurate results, and the same is shown below:<br><br>
 <b>1. Sample preparation</b><br> 
 Start using the sample preparation route and create a polished sample cross-section. <br><br>
-<b>2. Micrograph acquisition</b><br><br>
-Capturing a good quality microstructure of the polished cross-section using the microscope<br>
+<b>2. Micrograph acquisition</b><br>
+Capturing a good quality microstructure of the polished cross-section using the microscope<br><br>
 <b>3. Selection of Fields</b><br> Now, choose regions within the micrographs randomly and carefully try to choose the areas representative of the entire microstructure.<br><br>
 <b>4. Identification of the grain boundaries</b><br> In each of the selected fields of view, identify and mark the individual grain boundaries, and this step requires distinction from one grain to another. Based on the differences in the crystallographic orientations<br> <br>
 <b>5. Grain counting</b><br> Count the number of grains within each field of view. These counts should be made without grain overlap; each grain must be counted only once. <br><br>
@@ -78,9 +78,9 @@ n=2^(N-1)<br>
 1. Closed pack and complex-shaped grains require some critical evaluation<br>
 2. Extreme care should be taken during the sample preparation and etching; otherwise, grain boundaries cannot be properly revealed, which ultimately alters the grain size calculations.<br>
 3. For extremely large and extremely fine grains, this method is not suitable for calculation.<br><br>
-<br>c. Jeffries method</b><br> 
+<b>c. Jeffries method</b><br> 
 This method is known as the planimetrictric method for calculating quantitative grain size. It helps to calculate the average grain size of the metallographic specimen. It is an alternative to other grain size calculation methods primarily used with finer-grained materials. It uses a circular area for calculating the grain sizes. Some key points related to Jeffries grain size calculation methods are given below:<br><br>
-<b>1.Principle</b><br> 
+<b>1. Principle</b><br> 
 The base of this method relies heavily on planimetry, which involves measuring the areas of grains within a micrograph to estimate the grain sizes. <br><br>
 <b>2. Sample preparation</b><br> 
 Sectioning, mounting, grinding, polishing, and etching are some of the key sample preparation steps that need to be taken care of in this step.<br><br>
@@ -88,7 +88,7 @@ Sectioning, mounting, grinding, polishing, and etching are some of the key sampl
 Capturing a good quality microstructure of the polished cross-section using the microscope<br><br>
 <b>4. Selection of Fields</b><br> Now, choose regions within the micrographs randomly and carefully try to choose the areas representative of the entire microstructure.<br><br>
 <b>5. Grain area measurements</b><br> Use a planimetry tool in each selected field to calculate the visible grains' total area. This is done by boundary tracing for each grain present within the micrograph.<br><br> 
-<b>6.Calculating the average grain size<b><br> 
+<b>6.Calculating the average grain size</b><br> 
 Use the formula given below to calculate the average grain size:<br>
 Average grain diameter (D) = (Total grain area) / (number of grains * π/4)<br>
 Total grain area: combined grain area for all measured grains within a field<br>
@@ -100,6 +100,7 @@ Repeat the above steps to ensure statistical accuracy. Calculate the average gra
 <b>Advantage:</b><br>
 1. Useful for finer-grained materials<br>
 2. Uses multiple statistical fields to provide meaningful results.<br>
+
 <b>Disadvantages:</b><br>
 1. Complex process- Higher and more advanced imaging tools are required for precise calculations of grain sizes using this method.<br>
 2. Sample preparation should be very accurate to obtain accurate grain sizes.<br>
