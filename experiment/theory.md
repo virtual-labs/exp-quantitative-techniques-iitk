@@ -1,26 +1,26 @@
-Grain size in materials science and metallurgy refers to the size of the individual crystalline grains within a material microstructure. It plays a crucial role in determining the materials' mechanical, physical, and even chemical properties. Grain size and accurate measurements are fundamental aspects of materials science and engineering. The ability to control grain size allows for the customization of material properties to meet specific application requirements, thereby making it a critical factor in the design and manufacture of materials and components. Grain size measures are an essential characteristic of microstructures, and they influence different properties of materials, starting from the mechanical properties (strength, toughness, hardness, ductility, etc.). Some key points related to grain size and its measurements:<br>
+Grain size in materials science and metallurgy refers to the size of the individual crystalline grains within a material microstructure. It plays a crucial role in determining the materials' mechanical, physical, and even chemical properties. Grain size and accurate measurements are fundamental aspects of materials science and engineering. The ability to control grain size allows for the customization of material properties to meet specific application requirements, thereby making it a critical factor in the design and manufacture of materials and components. Grain size measures are an essential characteristic of microstructures, and they influence different properties of materials, starting from the mechanical properties (strength, toughness, hardness, ductility, etc.). Some key points related to grain size and its measurements:<br><br>
 <b>1.	Mechanical properties</b><br> 
-Grain size significantly influences a material mechanical properties. Smaller grain sizes often increase hardness and strength, while larger grain sizes show improved ductility and toughness. Engineers and materials scientists use grain size control to tailor the application-specific material properties.<br> 
+Grain size significantly influences a material mechanical properties. Smaller grain sizes often increase hardness and strength, while larger grain sizes show improved ductility and toughness. Engineers and materials scientists use grain size control to tailor the application-specific material properties.<br><br> 
 <b>2.	Heat treatment</b><br> 
-Grain size control is an essential aspect of the heat treatment process in metallurgy. Heat treatment processes like annealing and quenching can modify grain sizes and, consequently, the material’s mechanical properties.<br>
+Grain size control is an essential aspect of the heat treatment process in metallurgy. Heat treatment processes like annealing and quenching can modify grain sizes and, consequently, the material’s mechanical properties.<br><br>
 <b>3.	Corrosion resistance</b><br>
-It is well known that fine-grain materials always show enhanced corrosion resistance compared to coarse-grain materials. So, in areas where corrosion resistance becomes a key parameter, grain sizes should be considered.
+It is well known that fine-grain materials always show enhanced corrosion resistance compared to coarse-grain materials. So, in areas where corrosion resistance becomes a key parameter, grain sizes should be considered.<br><br>
 <b>4.	Fatigue resistance</b><br>
-It is well known that smaller grains always lead to enhanced resistance against fatigue failure, and so in areas where cyclic loading becomes a key parameter, such as aircraft components, grain size should be carefully taken into consideration for the material applied for that specific application.<br>
+It is well known that smaller grains always lead to enhanced resistance against fatigue failure, and so in areas where cyclic loading becomes a key parameter, such as aircraft components, grain size should be carefully taken into consideration for the material applied for that specific application.<br><br>
 <b>5.	Weldability</b><br> 
-In welding applications, base material grain size becomes a critical consideration for affecting the strength and quality of welds, so grain size control plays an important role here. <br>
+In welding applications, base material grain size becomes a critical consideration for affecting the strength and quality of welds, so grain size control plays an important role here. <br><br>
 <b>6.	Microstructure analysis</b><br> 
-Grain size measurements play a crucial role in characterizing the microstructure of a material. Advanced characterization techniques using microscopy, including optical, scanning electron microscopy, transmission electron microscopy, and x-ray diffraction, are effectively utilized in determining the grain sizes with accuracy and precise control.<br> 
+Grain size measurements play a crucial role in characterizing the microstructure of a material. Advanced characterization techniques using microscopy, including optical, scanning electron microscopy, transmission electron microscopy, and x-ray diffraction, are effectively utilized in determining the grain sizes with accuracy and precise control.<br><br> 
 <b>7.	Quality control</b><br> 
-Consistency of product and quality are always confirmed by any company or industry using grain size measurements. It helps to ensure that the material meets specific performance and standard criteria.<br>
-<b>8.	Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br>
+Consistency of product and quality are always confirmed by any company or industry using grain size measurements. It helps to ensure that the material meets specific performance and standard criteria.<br><br>
+<b>8.	Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br><br>
 
 Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grin sizes, which are listed below:<br>
 1.	Line Intercept Method<br>
 2.	Jeffries method<br>
 3.	Standard ASTM grain size calculations<br>
 
-We will now discuss all these methods one by one:<br>
+<b>We will now discuss all these methods one by one:</b><br>
 <b>(a)	Line Intercept Method</b><br>
 It is also known as Heyn’s method and is a simple technique used widely in materials science and engineering to estimate the average grain size of polycrystalline materials. It defines a practical way to calculate the grain size from the microstructures of the material cross-section. The brief procedure for calculating the grain size using Heyn’s intercept method is given below:<br><br>
 <b>1. Sample preparation</b><br> 
