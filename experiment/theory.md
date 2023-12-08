@@ -13,7 +13,7 @@ In welding applications, base material grain size becomes a critical considerati
 Grain size measurements play a crucial role in characterizing the microstructure of a material. Advanced characterization techniques using microscopy, including optical, scanning electron microscopy, transmission electron microscopy, and x-ray diffraction, are effectively utilized in determining the grain sizes with accuracy and precise control.<br><br> 
 <b>1.7	 Quality control</b><br> 
 Consistency of product and quality are always confirmed by any company or industry using grain size measurements. It helps to ensure that the material meets specific performance and standard criteria.<br><br>
-<b>1.8	Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br><br>
+<b>1.8	Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br>
 
 <b>2</b>  Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grin sizes, which are listed below:<br>
 <b>2.1</b>	 Line Intercept Method<br>
@@ -44,7 +44,7 @@ D is the estimated grain length<br>
 L is the mean intercept  length<br>
 Π is the constant value, with a value of 3.14<br><br>
 <b>2.1.8  Repeat and Average</b><br> 
-Repeat the above steps to ensure statistical accuracy. Calculate the average grain size from the results obtained in different fields. <br><br>
+Repeat the above steps to ensure statistical accuracy. Calculate the average grain size from the results obtained in different fields. <br>
 
 <b> Advantages</b><br>
 * It is a relatively straightforward method, doesn’t require any special instruments for study, and is easily accessible to every laboratory for usage.<br> 
@@ -95,12 +95,12 @@ n=2^(N-1)<br>
 <b>Where n is the</b> total number of grains visible in the microstructure per square inch, it is measured at 100x magnification.<br>     
 <b>N = </b>ASTM grain size parameter <br>
 <b>It is also important to note that the Grain size is ~ (1/ N)</b><br><br>
-<b>2.3.7  Calculating the average grain size</b><br> Repeat the above steps several times to ensure statistical significance. Calculate the average grain size by taking the mean of the grain size numbers obtained from different fields.<br> <br>
+<b>2.3.7  Calculating the average grain size</b><br> Repeat the above steps several times to ensure statistical significance. Calculate the average grain size by taking the mean of the grain size numbers obtained from different fields.<br>
 
 <b>Advantages:</b><br>
 * This method is standard, widely accepted, and ensures consistency in grain size determination across all laboratories worldwide.<br>
 * The average grain size provided is a statistically valid estimate, as calculations were done by sampling the multiple areas within a microstructure.<br>
-* This method is widely accepted for different metals and material systems.<br><br> 
+* This method is widely accepted for different metals and material systems.<br>
 
 <b>Disadvantages:</b><br>
 * Closed pack and complex-shaped grains require some critical evaluation<br>
