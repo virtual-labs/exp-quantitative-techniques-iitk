@@ -15,7 +15,7 @@ Grain size measurements play a crucial role in characterizing the microstructure
 Consistency of product and quality are always confirmed by any company or industry using grain size measurements. It helps to ensure that the material meets specific performance and standard criteria.<br><br>
 <b>1.8	Research and Developments</b><br> Grain size studies and measurements are an integral part of developing newer materials with enhanced properties. Researchers use grain size controls to explore novel materials for various industries, from aerospace to electronics<br>
 
-<b>2</b>  Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grin sizes, which are listed below:<br>
+<b>2</b>  Till now, we studied the importance of grain size, but now we will study different methods used for calculations of grain sizes, which are listed below:<br>
 <b>2.1</b>	 Line Intercept Method<br>
 <b>2.2</b>	 Jeffries method<br>
 <b>2.3</b>	 Standard ASTM grain size calculations<br>
