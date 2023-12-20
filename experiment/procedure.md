@@ -3,7 +3,7 @@ The American Society for Testing and Materials (ASTM) grain size calculation met
 <b>Sample preparation</b><br> 
 Start using the sample preparation route and create a polished cross section of the sample as well.<br><br> 
 <b>Micrograph acquisition</b><br> 
-Capturing a good quality microstructure of the polished cross section using the microscope.<br>
+Capturing a good quality microstructure of the polished cross section using the microscope.<br><br>
 <b>Selection of Fields</b><br> 
 Now choose regions within the micrographs on a random basis and carefully try to choose the areas representative of the entire microstructure.<br><br>
 <b>Identification of the grain boundaries</b><br> 
