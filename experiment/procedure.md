@@ -12,7 +12,7 @@ In each of the selected field of view, identify and mark the individual grain bo
 Count the number of grains within each field of view. These counts should be made without grain overlap and each grain needs to be counted only once.<br><br> 
 <b>Determining the ASTM grain size numbers</b><br> 
 Use the grain counts to determine the ASTM grain size number using a Table provided by ASTM. The ASTM E112 standard provides a chart that correlates the number of grains per square inch (or per square millimetre) to a specific grain size number.  Use the standard formula from ASTM  given below for calculating the average grain size:<br> 
-n=2N-1<br>           
+n=2^(N-1)<br>           
 Where, n = total number of grains visible in the microstructure per inch square. It is measured at 100X magnification. <br>    
 N = ASTM grain size parameter<br> 
 It is also important to note that the Grain Size ~ (1/ N)<br>
