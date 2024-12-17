@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Fill in the blanks<br>Grain size in materials science and metallurgy refers to the size of the …………. crystalline grains within a material's microstructure.",
+      "answers": {
+        "a": "Poly",
+        "b": "Single",
+        "c": "Largest",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which method uses lines as the fundamental calculating tool for calculating grain size?",
+      "answers": {
+        "a": "Jeffries method",
+        "b": "Line intercept method",
+        "c": "ASTM grain size calculation method",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Full form of ASTM",
+      "answers": {
+        "a": "American Science for Testing of Materials",
+        "b": "American Standard for Testing and Materials",
+        "c": "American Society for Testing and Materials",
+        "d": "American Society for Testing of Metals"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
