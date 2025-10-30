@@ -10,7 +10,7 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -27,7 +27,7 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -44,7 +44,58 @@
         "d": "American Society for Testing of Metals"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. According to the ASTM E112 standard, the relationship between the number of grains per unit area at 100× magnification (n) and the ASTM grain size number (N) is given by:",
+      "answers": {
+        "a": "n = 2<sup>(N + 1)</sup>",
+        "b": "n = 2<sup>(N - 1)</sup>",
+        "c": "n = 2<sup>(N - 1)/2</sup>",
+        "d": "n = 2<sup>N</sup>"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In the linear intercept method, the average grain size is determined by measuring:",
+      "answers": {
+        "a": "The total number of grains per unit area",
+        "b": "The total length of grain boundaries per unit area",
+        "c": "The average length of line segments intercepted by grain boundaries ",
+        "d": "The number of grains in a known volume"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. In the Jeffries Method, what is the usual convention for counting grains intercepted by the test circle?",
+      "answers": {
+        "a": "Count all intercepted grains as 1",
+        "b": "Ignore the intercepted grains",
+        "c": "Count the intercepted grains as half (1/2)",
+        "d": "Count them twice for better accuracy"
+      },
+      "explanations": {
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
