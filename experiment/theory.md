@@ -30,7 +30,7 @@ It is also known as Heyn’s method and is a simple technique used widely in mat
 Start using the sample preparation route and create a polished sample cross-section.<br><br> 
 <b>• Micrograph acquisition</b><br>
 Capturing a good quality microstructure of the polished cross-section using the microscope<br><br>
-<b>• Selection of Fields</b><br>
+<b>• Selection of fields</b><br>
 Now, choose regions within the micrographs randomly and carefully try to choose the areas representative of the entire microstructure.<br><br>
 <b>• Drawing lines</b><br> 
 Draw lines of known length (mm) on the micrographs in a random orientation to the material's crystallographic structure. <br><br>
@@ -42,11 +42,11 @@ L = (Total length of lines) / (Total number of Intercepts)<br> <br>
 <b>• Grain size estimation (D)</b><br>
 
 Use the mean intercept length (L) to estimate the average grain size (D) using the following equations:<br> 
-D=(L/π)*(1/2) <br>
+D=(L/π)X(1/2)......eq.(1)<br>
 <b>Where:</b><br>
 D is the estimated grain length<br>
 L is the mean intercept  length<br>
-Π is the constant value, with a value of 3.14<br><br>
+π is the constant value, with a value of 3.14<br><br>
 <b>• Repeat and Average</b><br> 
 Repeat the above steps to ensure statistical accuracy. Calculate the average grain size from the results obtained in different fields. <br>
 
@@ -70,12 +70,12 @@ The base of this method relies heavily on planimetry, which involves measuring t
 Sectioning, mounting, grinding, polishing, and etching are some of the key sample preparation steps that need to be taken care of in this step.<br><br>
 <b>• Micrograph acquisition</b><br> 
 Capturing a good quality microstructure of the polished cross-section using the microscope<br><br>
-<b>• Selection of Fields</b><br> Now, choose regions within the micrographs randomly and carefully try to choose the areas representative of the entire microstructure.<br><br>
+<b>• Selection of fields</b><br> Now, choose regions within the micrographs randomly and carefully try to choose the areas representative of the entire microstructure.<br><br>
 <b>• Grain area measurements</b><br> Use a planimetry tool in each selected field to calculate the visible grains' total area. This is done by boundary tracing for each grain present within the micrograph.<br><br> 
 <b>• Calculating the average grain size</b><br> 
 
 Use the formula given below to calculate the average grain size:<br>
-Average grain diameter (D) = (Total grain area) / (number of grains * π/4)<br>
+Average grain diameter (D) = (Total grain area) / (number of grains X π/4)<br>
 Total grain area: combined grain area for all measured grains within a field<br>
 Number of grains: Total grain counts within the same field.<br>
 π/4 is a constant.<br><br>
@@ -84,7 +84,7 @@ Number of grains: Total grain counts within the same field.<br>
 
 Repeat the above steps to ensure statistical accuracy. Calculate the average grain size from the results obtained in different fields.<br> 
 
-<b>Advantage:</b><br>
+<b>Advantages:</b><br>
 * Useful for finer-grained materials<br>
 * Uses multiple statistical fields to provide meaningful results.<br>
 
@@ -98,13 +98,13 @@ Repeat the above steps to ensure statistical accuracy. Calculate the average gra
 Start using the sample preparation route and create a polished sample cross-section. <br><br>
 <b>• Micrograph acquisition</b><br>
 Capturing a good quality microstructure of the polished cross-section using the microscope<br><br>
-<b>• Selection of Fields</b><br> Now, choose regions within the micrographs randomly and carefully try to choose the areas representative of the entire microstructure.<br><br>
+<b>• Selection of fields</b><br> Now, choose regions within the micrographs randomly and carefully try to choose the areas representative of the entire microstructure.<br><br>
 <b>• Identification of the grain boundaries</b><br> In each of the selected fields of view, identify and mark the individual grain boundaries, and this step requires distinction from one grain to another. Based on the differences in the crystallographic orientations<br> <br>
 <b>• Grain counting</b><br> Count the number of grains within each field of view. These counts should be made without grain overlap; each grain must be counted only once. <br><br>
 <b>• Determining the ASTM grain size numbers</b><br> Use the grain counts to determine the ASTM grain size number using a table provided by ASTM. The ASTM E112 standard provides a chart that correlates the number of grains per square inch (or per square millimetre) to a specific grain size. Use the standard formula from ASTM  given below for calculating the average grain size:<br> 
 
-n=2^(N-1)<br>           
-<b>Where n is the</b> total number of grains visible in the microstructure per square inch, it is measured at 100x magnification.<br>     
+n=2<sup>(N-1)</sup>.....eq.(2)<br>           
+Where n is the total number of grains visible in the microstructure per square inch, it is measured at 100x magnification.<br>     
 <b>N = </b>ASTM grain size parameter <br>
 <b>It is also important to note that the Grain size is ~ (1/ N)</b><br><br>
 
