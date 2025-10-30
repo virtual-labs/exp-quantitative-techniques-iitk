@@ -10,7 +10,7 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -27,7 +27,7 @@
         "d": "aNone of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -44,7 +44,58 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The ASTM grain size number (G) increases with:",
+      "answers": {
+        "a": "Increasing grain diameter",
+        "b": "Decreasing grain diameter",
+        "c": "Increasing specimen thickness",
+        "d": "Decreasing magnification"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In the Jeffries Planimetric Method, the grain size is determined by: ",
+      "answers": {
+        "a": "Measuring the average intercept length of test lines across grains ",
+        "b": "Counting the number of grains within a known area under the microscope",
+        "c": "Measuring the total grain boundary length per unit area",
+        "d": "Estimating the average grain diameter using X-ray diffraction"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which of the following statements about ASTM grain size determination is true?",
+      "answers": {
+        "a": "It can only be applied to ferrous alloys.",
+        "b": "It is a qualitative comparison method that may be supplemented by quantitative methods.",
+        "c": "The grain size number decreases with decreasing",
+        "d": "It cannot be used for polycrystalline materials."
+      },
+      "explanations": {
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
