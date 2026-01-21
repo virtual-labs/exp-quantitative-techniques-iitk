@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Fill in the blanks<br>Grain size in materials science and metallurgy refers to the size of the …………. crystalline grains within a material's microstructure.",
+      "answers": {
+        "a": "Poly",
+        "b": "Single",
+        "c": "Largest",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "This is an incorrect option. Grain size does not refer to the size of polycrystalline aggregates as a whole.",
+        "b": "This is the correct option. Grain size refers to the size of individual (single) crystalline grains within a material’s microstructure.",
+        "c": "This is an incorrect option. Grain size is not defined by only the largest grain present.",
+        "d": "This is an incorrect option. Since “single” correctly defines grain size, this option is incorrect."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which method uses lines as the fundamental calculating tool for calculating grain size?",
+      "answers": {
+        "a": "Jeffries method",
+        "b": "Line intercept method",
+        "c": "ASTM grain size calculation method",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "This is an incorrect option.  Jeffries' method uses the number of grains per unit area, not lines, as the basic counting parameter.",
+        "b": "This is the correct option. This method uses straight test lines and counts grain boundary intercepts, making lines the fundamental calculating tool.",
+        "c": "This is an incorrect option. ASTM methods are based on grain count or comparison charts, not directly on line measurements.",
+        "d": "Since the line intercept method uses lines, this option is incorrect."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Full form of ASTM",
+      "answers": {
+        "a": "American Science for Testing of Materials",
+        "b": "American Standard for Testing and Materials",
+        "c": "American Society for Testing and Materials",
+        "d": "American Society for Testing of Metals"
+      },
+      "explanations": {
+        "a": "This is incorrect; ASTM does not stand for “American Science.”",
+        "b": "This is an incorrect option. ASTM is not expanded as “American Standard.”",
+        "c": "This is the correct option. This is the correct full form of ASTM (now internationally known as ASTM International).",
+        "d": "This is an incorrect option. This was an earlier name, but it is not the correct or current full form."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. According to the ASTM E112 standard, the relationship between the number of grains per unit area at 100× magnification (n) and the ASTM grain size number (N) is given by:",
+      "answers": {
+        "a": "n = 2<sup>(N + 1)</sup>",
+        "b": "n = 2<sup>(N - 1)</sup>",
+        "c": "n = 2<sup>(N - 1)/2</sup>",
+        "d": "n = 2<sup>N</sup>"
+      },
+      "explanations": {
+        "a": "This is an incorrect option. The exponent is too high; it overestimates grain count.",
+        "b": "This is the correct option. this is exactly the ASTM E112 standard relationship between grain size number Nand the number of grains per unit area at 100X magnification n.",
+        "c": "This is an incorrect option. This corresponds to a lineal intercept method adjustment, not the ASTM area-based grain count.",
+        "d": ") This is an incorrect option. Slightly overestimates compared to the ASTM standard."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In the linear intercept method, the average grain size is determined by measuring:",
+      "answers": {
+        "a": "The total number of grains per unit area",
+        "b": "The total length of grain boundaries per unit area",
+        "c": "The average length of line segments intercepted by grain boundaries ",
+        "d": "The number of grains in a known volume"
+      },
+      "explanations": {
+        "a": "This is an incorrect option. This is used in the Jeffries method, not the line intercept method.",
+        "b": "This is an incorrect option. This is not directly measured in the linear intercept method.",
+        "c": "This is the correct option. The line intercept method involves drawing test lines across the microstructure and measuring the lengths between grain boundary intercepts to calculate average grain size.",
+        "d": "This is an incorrect option. This would be for 3D grain size measurements, not the 2D linear intercept method."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. In the Jeffries Method, what is the usual convention for counting grains intercepted by the test circle?",
+      "answers": {
+        "a": "Count all intercepted grains as 1",
+        "b": "Ignore the intercepted grains",
+        "c": "Count the intercepted grains as half (1/2)",
+        "d": "Count them twice for better accuracy"
+      },
+      "explanations": {
+        "a": "This is an incorrect option. This would overestimate the grain count.",
+        "b": "This is an incorrect option. Ignoring them would underestimate the grain count.",
+        "c": "This is the correct option. In the Jeffries method, grains cut by the test circle are counted as 1/2 to avoid bias from partial grains.",
+        "d": "This is an incorrect option. Counting them twice would distort the results."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
