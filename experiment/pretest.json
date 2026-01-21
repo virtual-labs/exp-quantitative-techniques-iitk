@@ -10,10 +10,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. Grain size does not refer to the size of polycrystalline aggregates as a whole.",
+        "b": "This is the correct option. Grain size refers to the size of individual (single) crystalline grains within a material’s microstructure.",
+        "c": "This is an incorrect option. Grain size is not defined by only the largest grain present.",
+        "d": "This is an incorrect option. Since “single” correctly defines grain size, this option is incorrect."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option.  Jeffries' method uses the number of grains per unit area, not lines, as the basic counting parameter.",
+        "b": "This is the correct option. This method uses straight test lines and counts grain boundary intercepts, making lines the fundamental calculating tool.",
+        "c": "This is an incorrect option. ASTM methods are based on grain count or comparison charts, not directly on line measurements.",
+        "d": "Since the line intercept method uses lines, this option is incorrect."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "American Society for Testing of Metals"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is incorrect; ASTM does not stand for “American Science.”",
+        "b": "This is an incorrect option. ASTM is not expanded as “American Standard.”",
+        "c": "This is the correct option. This is the correct full form of ASTM (now internationally known as ASTM International).",
+        "d": "This is an incorrect option. This was an earlier name, but it is not the correct or current full form."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "n = 2<sup>N</sup>"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. The exponent is too high; it overestimates grain count.",
+        "b": "This is the correct option. this is exactly the ASTM E112 standard relationship between grain size number Nand the number of grains per unit area at 100X magnification n.",
+        "c": "This is an incorrect option. This corresponds to a lineal intercept method adjustment, not the ASTM area-based grain count.",
+        "d": ") This is an incorrect option. Slightly overestimates compared to the ASTM standard."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "The number of grains in a known volume"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. This is used in the Jeffries method, not the line intercept method.",
+        "b": "This is an incorrect option. This is not directly measured in the linear intercept method.",
+        "c": "This is the correct option. The line intercept method involves drawing test lines across the microstructure and measuring the lengths between grain boundary intercepts to calculate average grain size.",
+        "d": "This is an incorrect option. This would be for 3D grain size measurements, not the 2D linear intercept method."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -95,10 +95,10 @@
         "d": "Count them twice for better accuracy"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. This would overestimate the grain count.",
+        "b": "This is an incorrect option. Ignoring them would underestimate the grain count.",
+        "c": "This is the correct option. In the Jeffries method, grains cut by the test circle are counted as 1/2 to avoid bias from partial grains.",
+        "d": "This is an incorrect option. Counting them twice would distort the results."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
