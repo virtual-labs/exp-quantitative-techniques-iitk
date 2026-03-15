@@ -10,10 +10,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. Uses straight lines across the microstructure, not a circle.",
+        "b": "This is an incorrect option. Typically uses grain counting per unit area or comparison charts, not specifically a circular area.",
+        "c": "This is the correct option. The Jeffries method uses a test circle drawn on the microstructure to count grains and calculate grain size.",
+        "d": "Incorrect, since Jeffries' method uses a circle."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "aNone of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is the correct option. The Jeffries method is also called the planimetric method because it involves counting grains within a planar (2D) area, typically using a test circle.",
+        "b": "This is an incorrect option.  This is called the lineal method, not planimetric.",
+        "c": "This is an incorrect option. ASTM defines several grain size measurement procedures, but the planimetric name specifically refers to Jeffries' method.",
+        "d": "Incorrect, since Jeffries' method is the planimetric method."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,61 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is the correct option.  It is not suitable for very coarse or very fine grains because counting grains in a fixed test circle becomes inaccurate when grains are extremely large or very small.",
+        "b": "This is an incorrect option.  Suitable for both fine and coarse grains because it measures intercept lengths rather than counting grains directly.",
+        "c": "This is an incorrect option. It can be adapted for various grain sizes using appropriate magnification or comparison charts.",
+        "d": "Incorrect, since Jeffries' method has a limitation mentioned."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The ASTM grain size number (G) increases with:",
+      "answers": {
+        "a": "Increasing grain diameter",
+        "b": "Decreasing grain diameter",
+        "c": "Increasing specimen thickness",
+        "d": "Decreasing magnification"
+      },
+      "explanations": {
+        "a": "This is an incorrect option. Larger grains correspond to a smaller ASTM grain size number.",
+        "b": "This is the correct option. Finer grains mean more grains per unit area, which increases the ASTM grain size number (G).",
+        "c": "This is an incorrect option. Thickness does not directly affect the ASTM grain size number, which is based on 2D microstructure.",
+        "d": "Magnification affects the observed number of grains but the ASTM number is normalized to 100X magnification, so this is not correct."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In the Jeffries Planimetric Method, the grain size is determined by: ",
+      "answers": {
+        "a": "Measuring the average intercept length of test lines across grains ",
+        "b": "Counting the number of grains within a known area under the microscope",
+        "c": "Measuring the total grain boundary length per unit area",
+        "d": "Estimating the average grain diameter using X-ray diffraction"
+      },
+      "explanations": {
+        "a": "This is an incorrect option.  This is the line intercept method, not the Jeffries method.",
+        "b": "This is the correct option. The Jeffries method (planimetric method) involves counting all grains inside a test circle and using that count to calculate the grain size.",
+        "c": "This is an incorrect option. Not part of the Jeffries method.",
+        "d": "This is an incorrect option. XRD can estimate crystallite size, but this is unrelated to the microscopic Jeffries method."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which of the following statements about ASTM grain size determination is true?",
+      "answers": {
+        "a": "It can only be applied to ferrous alloys.",
+        "b": "It is a qualitative comparison method that may be supplemented by quantitative methods.",
+        "c": "The grain size number decreases with decreasing grain size",
+        "d": "It cannot be used for polycrystalline materials."
+      },
+      "explanations": {
+        "a": "This is an incorrect option. ASTM grain size determination can be applied to both ferrous and non-ferrous polycrystalline materials. ",
+        "b": "This is the correct option. ASTM grain size determination includes comparison charts (qualitative) and can be supported.",
+        "c": "This is an incorrect option. The ASTM grain size number increases as grain size decreases.",
+        "d": "This is an incorrect option. ASTM grain size methods are specifically intended for polycrystalline materials."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
